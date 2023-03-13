@@ -32,3 +32,17 @@ versio4
 git add .
 versio commit -m
 git push
+----------------------------------------------
+versio5
+
+git add.
+git commit -m 
+git push
+
+--------------------------------
+versio6
+git branch amplicacio
+git add .
+git commit -m 
+git push origin ampliacio
+git merge ampliacio
