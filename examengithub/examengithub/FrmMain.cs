@@ -28,5 +28,11 @@ namespace examengithub
             FormViatge formviatge = new FormViatge();
             formviatge.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormAnimal frmanimal = new FormAnimal();
+            frmanimal.Show();
+        }
     }
 }

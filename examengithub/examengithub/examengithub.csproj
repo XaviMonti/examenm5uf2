@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnimal.Designer.cs">
+      <DependentUpon>FormAnimal.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMenjar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAnimal.resx">
+      <DependentUpon>FormAnimal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormMenjar.resx">
       <DependentUpon>FormMenjar.cs</DependentUpon>
     </EmbeddedResource>
