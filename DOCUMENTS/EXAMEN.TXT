@@ -14,3 +14,12 @@ nano EXAMEN.TXT
 git add .
 git commit -m "versio2"
 git push origin main
+
+versio3
+
+----------------------------------------------------------
+
+nano .gitignore
+git add .
+git commit -m "versio3"
+git push origin main
