@@ -4,3 +4,13 @@ git remote add origin https://github.com/XaviMonti/examenm5uf2.git
 git add .
 git commit -m "primera puajada"
 git push origin main
+
+--------------------------------------------------------
+
+versio2
+
+cd DOCUMENTS/
+nano EXAMEN.TXT
+git add .
+git commit -m "versio2"
+git push origin main
