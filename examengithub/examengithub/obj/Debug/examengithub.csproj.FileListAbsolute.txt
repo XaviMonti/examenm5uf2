@@ -1,0 +1,13 @@
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\bin\Debug\examengithub.exe.config
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\bin\Debug\examengithub.exe
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\bin\Debug\examengithub.pdb
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.csproj.AssemblyReference.cache
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.FormMenjar.resources
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.FrmMain.resources
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.Properties.Resources.resources
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.csproj.GenerateResource.cache
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.exe
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.pdb
+C:\Users\Usuari\examennm5uf2\examenm5uf2\examengithub\examengithub\obj\Debug\examengithub.FormViatge.resources

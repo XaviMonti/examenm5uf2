@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormMenjar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenjar.Designer.cs">
+      <DependentUpon>FormMenjar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormViatge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormViatge.Designer.cs">
+      <DependentUpon>FormViatge.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +66,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormMenjar.resx">
+      <DependentUpon>FormMenjar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormViatge.resx">
+      <DependentUpon>FormViatge.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
     </EmbeddedResource>

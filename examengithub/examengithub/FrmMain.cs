@@ -16,5 +16,17 @@ namespace examengithub
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormMenjar formmenjar = new FormMenjar();
+            formmenjar.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormViatge formviatge = new FormViatge();
+            formviatge.Show();
+        }
     }
 }

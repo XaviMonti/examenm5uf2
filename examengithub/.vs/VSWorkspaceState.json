@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\examengithub"
   ],
-  "SelectedNode": "\\examengithub.sln",
+  "SelectedNode": "\\examengithub\\FrmMain.cs",
   "PreviewInSolutionExplorer": false
 }
